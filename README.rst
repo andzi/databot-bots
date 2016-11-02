@@ -1,7 +1,7 @@
 How to install
 ==============
 
-Install system packsages::
+Install system packages::
 
   sudo apt-get install git python3-dev libhunspell-dev
   sudo apt-get build-dep python3-lxml
